@@ -1,0 +1,22 @@
+body{
+  background: linear-gradient(to left,rgb(199, 69, 69),rgb(117, 117, 171));
+}
+.jumbotron {
+  background: linear-gradient(to left,rgb(199, 69, 69),rgb(117, 117, 171));
+  color: black;
+  padding: 100px 0;
+  text-align: center;
+}
+#sign{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to left,rgb(199, 69, 69),rgb(117, 117, 171));
+  
+
+}
+
+.brand-icon {
+    font-size: 100px;
+}
